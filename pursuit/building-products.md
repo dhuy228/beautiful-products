@@ -20,5 +20,6 @@ Building Product Principles - https://medium.com/the-year-of-the-looking-glass/b
 - Gather potential visions: If you had a magic wand for <problem X>, what would you use it on?
 
 - Test your thesis: If I gave you a <proposed solution>, what parts about <problem X> would it help with or not help with?
+https://joulee.medium.com/the-looking-glass-you-cannot-teach-wisdom-6fbfcff0651a
 
 
