@@ -1,6 +1,6 @@
 # About being a PM definition
 
-## This is alignd with my understanding too - RAF > RFA
+# This is alignd with my understanding too - RAF > RFA
 ### For leaders:
 
 Hire curious generalists, not specialists.
@@ -39,7 +39,7 @@ High agency: AI favors those who bias towards action and see themselves as probl
 https://joulee.medium.com/the-death-of-product-development-as-we-know-it-1bcae948ce61
 
 
-## The price of greatness
+# The price of greatness
 If you surround yourself with great people, you’re going to get better faster. But the price you pay is the constant feeling of inadequacy.
 
 If you invest in equities over a long enough period, you’re going to make money. But the price you pay is the constant feeling that you’ve missed out on some important trend or deal.
@@ -56,3 +56,18 @@ Sometimes, social media makes it seem like achieving / winning / changing the wo
 
 Play the game that suits you. But know there is always a price.
 https://joulee.medium.com/the-looking-glass-738a224e51fd
+
+
+# About wisdom, data > information > knowledge > wisdom.
+
+Data is input, information is connecting, knowledge is connecting information. But wisdom is not connecting knowledge. It is testing your knowledge in the real world, fail fail -> don't fail fail fail -> don't fail fail fail fail fail 
+
+To my young-hearted friends: read and learn. Reflect and absorb.
+
+But never forget: Wisdom is life itself.
+
+Sometimes, there is no more advice left to give.
+
+Sometimes, you must simply live.
+
+https://joulee.medium.com/the-looking-glass-you-cannot-teach-wisdom-6fbfcff0651a
