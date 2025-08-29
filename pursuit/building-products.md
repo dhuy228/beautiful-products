@@ -7,10 +7,7 @@ Building Product Principles - https://medium.com/the-year-of-the-looking-glass/b
 
 
 
-## I wrote something before
-""
 
-I'm gonna steal Julie's explanation as followed:
 ## The price of greatness
 If you surround yourself with great people, you’re going to get better faster. But the price you pay is the constant feeling of inadequacy.
 
