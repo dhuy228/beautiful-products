@@ -38,6 +38,9 @@ High agency: AI favors those who bias towards action and see themselves as probl
 
 https://joulee.medium.com/the-death-of-product-development-as-we-know-it-1bcae948ce61
 
+# Marketing vs Product Management
+Marketing folks focus on getting users into the product, while product managers define what happens
+once the user is in the product.
 
 # The price of greatness
 If you surround yourself with great people, you’re going to get better faster. But the price you pay is the constant feeling of inadequacy.
