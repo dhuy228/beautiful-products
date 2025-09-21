@@ -7,6 +7,8 @@ Hire curious generalists, not specialists.
 Track speed of feature development: ensure that it’s going up.
 Reward doers over sayers: look for the proof in the problem solved, not in the discussion had
 
+"Every product problem is product leadership problem" from Shreyas Doshi - encourage team to act, give them contexts and confidence to make calculated risks, team agency and empowered product teams are valuable.
+
 ### For ICs:
 
 Identify as a problem-solver: not an engineer / designer / pm.
